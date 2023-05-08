@@ -5,7 +5,8 @@ This is a data science project that aims to predict fraudulent credit card trans
 # Dataset
 
 The dataset used in this project can be downloaded from Kaggle. It contains a total of 284,807 transactions, with 492 frauds. The dataset contains only numerical input variables, which have been transformed using PCA to ensure confidentiality. The only non-transformed features are 'Time' and 'Amount'.
-Requirements
+
+# Requirements
 
 To run this project, you will need the following libraries:
 
